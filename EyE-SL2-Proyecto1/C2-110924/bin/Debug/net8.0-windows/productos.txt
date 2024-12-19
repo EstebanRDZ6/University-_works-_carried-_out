@@ -1,0 +1,7 @@
+P001;Producto 1
+P002;Producto 2
+123;Carne de bufalo
+1234;Carne de bufalo
+5;Pepino
+55;Manteca
+7855;Surubi
