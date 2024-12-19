@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ejercicio grupo 06- DLL/1.0.0": {
+        "dependencies": {
+          "AreasGeometricas.DLL": "1.0.0"
+        },
+        "runtime": {
+          "Ejercicio grupo 06- DLL.dll": {}
+        }
+      },
+      "AreasGeometricas.DLL/1.0.0": {
+        "runtime": {
+          "AreasGeometricas.DLL.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejercicio grupo 06- DLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AreasGeometricas.DLL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

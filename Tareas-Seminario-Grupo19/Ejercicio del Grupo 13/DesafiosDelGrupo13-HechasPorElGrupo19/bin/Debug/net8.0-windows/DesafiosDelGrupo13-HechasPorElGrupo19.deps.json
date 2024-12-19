@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DesafiosDelGrupo13-HechasPorElGrupo19/1.0.0": {
+        "runtime": {
+          "DesafiosDelGrupo13-HechasPorElGrupo19.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DesafiosDelGrupo13-HechasPorElGrupo19/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

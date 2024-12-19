@@ -1,0 +1,22 @@
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\bin\Debug\net8.0\AreasGeometricas.DLL.deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\bin\Debug\net8.0\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\bin\Debug\net8.0\AreasGeometricas.DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\refint\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\AreasGeometricas.DLL\obj\Debug\net8.0\ref\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\bin\Debug\net8.0\AreasGeometricas.DLL.deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\bin\Debug\net8.0\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\bin\Debug\net8.0\AreasGeometricas.DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\refint\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\AreasGeometricas.DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\AreasGeometricas.DLL\obj\Debug\net8.0\ref\AreasGeometricas.DLL.dll

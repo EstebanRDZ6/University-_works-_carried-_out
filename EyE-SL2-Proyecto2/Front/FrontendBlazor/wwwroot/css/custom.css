@@ -1,0 +1,12 @@
+body {
+    background-color: #f4f7fc;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    color: #6a1b9a;
+}
+
+table th, table td {
+    text-align: center;
+}

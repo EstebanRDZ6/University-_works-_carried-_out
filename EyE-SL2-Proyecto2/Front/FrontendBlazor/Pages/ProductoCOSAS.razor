@@ -1,0 +1,60 @@
+@page "/producto/{Id:int}"
+@using FrontendBlazor.Models
+@inject HttpClient Http
+@inject NavigationManager Navigation
+
+<h2>@(Producto.Id == 0 ? "Crear Producto" : "Editar Producto")</h2>
+
+<EditForm Model="@Producto" OnValidSubmit="GuardarProducto">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="nombre">Nombre</label>
+        <InputText id="nombre" class="form-control" @bind-Value="Producto.Nombre" />
+    </div>
+    <div class="form-group">
+        <label for="precio">Precio</label>
+        <InputNumber id="precio" class="form-control" @bind-Value="Producto.Precio" />
+    </div>
+    <button type="submit" class="btn btn-primary">Guardar</button>
+    <button type="button" class="btn btn-secondary" @onclick="Cancelar">Cancelar</button>
+</EditForm>
+
+@code {
+    [Parameter] public int Id { get; set; }
+
+    private Producto Producto = new Producto();
+
+    protected override async Task OnInitializedAsync()
+    {
+        if (Id != 0) // Si el Id no es 0, significa que estamos editando un producto
+        {
+            Producto = await Http.GetFromJsonAsync<Producto>($"https://localhost:7106/api/productos/{Id}");
+        }
+        else
+        {
+            Producto = new Producto();
+        }
+    }
+
+    private async Task GuardarProducto()
+    {
+        if (Producto.Id == 0) // Si el producto no tiene ID, es una creación
+        {
+            await Http.PostAsJsonAsync("https://localhost:7106/api/productos", Producto);
+        }
+        else // Si el producto tiene ID, es una edición
+        {
+            await Http.PutAsJsonAsync($"https://localhost:7106/api/productos/{Producto.Id}", Producto);
+        }
+
+        Navigation.NavigateTo("/productos"); // Redirige al listado después de guardar
+    }
+
+    private void Cancelar()
+    {
+        Navigation.NavigateTo("/productos"); // Vuelve al listado de productos
+    }
+}
+

@@ -1,0 +1,40 @@
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.exe
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.runtimeconfig.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio_grupo_06__DLL.Form1.resources
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\refint\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.genruntimeconfig.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\ref\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\bin\Debug\net8.0-windows\AreasGeometricas.DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.csproj.AssemblyReference.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio grupo 06- DLL\obj\Debug\net8.0-windows\Ejercici.3C0E6933.Up2Date
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.exe
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.runtimeconfig.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\Ejercicio grupo 06- DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\AreasGeometricas.DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\bin\Debug\net8.0-windows\AreasGeometricas.DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.csproj.AssemblyReference.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio_grupo_06__DLL.Form1.resources
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercici.3C0E6933.Up2Date
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\refint\Ejercicio grupo 06- DLL.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\Ejercicio grupo 06- DLL.genruntimeconfig.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 06\Ejercicio grupo 06\obj\Debug\net8.0-windows\ref\Ejercicio grupo 06- DLL.dll

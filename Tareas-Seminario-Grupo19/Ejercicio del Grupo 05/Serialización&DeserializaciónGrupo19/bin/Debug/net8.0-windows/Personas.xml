@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <Nombre>Juan</Nombre>
+    <Edad>30</Edad>
+  </Persona>
+  <Persona>
+    <Nombre>Ana</Nombre>
+    <Edad>25</Edad>
+  </Persona>
+  <Persona>
+    <Nombre>Carlos</Nombre>
+    <Edad>40</Edad>
+  </Persona>
+  <Persona>
+    <Nombre>pepe</Nombre>
+    <Edad>12</Edad>
+  </Persona>
+  <Persona>
+    <Nombre>pepe</Nombre>
+    <Edad>12</Edad>
+  </Persona>
+</ArrayOfPersona>

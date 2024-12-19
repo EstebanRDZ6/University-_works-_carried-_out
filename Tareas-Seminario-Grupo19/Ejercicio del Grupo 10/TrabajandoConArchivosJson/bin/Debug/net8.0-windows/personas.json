@@ -1,0 +1,32 @@
+[
+  {
+    "Nombre": "Juan",
+    "Edad": 22,
+    "Correo": "13212@hotmail.com"
+  },
+  {
+    "Nombre": "Jessica",
+    "Edad": 20,
+    "Correo": "12312@hotmail.com"
+  },
+  {
+    "Nombre": "Messi",
+    "Edad": 37,
+    "Correo": "ElMejor@gmail.com"
+  },
+  {
+    "Nombre": "Anastasio",
+    "Edad": 80,
+    "Correo": "ElSimple@hotmail.com"
+  },
+  {
+    "Nombre": "Rogelio",
+    "Edad": 122,
+    "Correo": "2131"
+  },
+  {
+    "Nombre": "Rogelio",
+    "Edad": 122,
+    "Correo": "2131"
+  }
+]

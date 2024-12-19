@@ -1,0 +1,22 @@
+
+@{
+    ViewData["Title"] = "Crear";
+}
+@model Libro
+
+<h1>Agregar Nuevo Libro</h1>
+
+<form asp-action="Crear" method="post">
+    <div>
+        <label>Título:</label>
+        <input asp-for="Titulo" />
+    </div>
+    <div>
+        <label>Autor:</label>
+        <input asp-for="Autor" />
+    </div>
+    <button type="submit">Guardar</button>
+</form>
+
+<a asp-action="Index">Volver a la Lista</a>
+

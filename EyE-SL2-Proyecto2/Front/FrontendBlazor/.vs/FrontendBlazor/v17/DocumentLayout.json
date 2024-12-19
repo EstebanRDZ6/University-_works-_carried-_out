@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|c:\\users\\tutor\\onedrive\\desktop\\eye-sl2-proyecto2\\front\\frontendblazor\\pages\\productocosas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|solutionrelative:pages\\productocosas.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|c:\\users\\tutor\\onedrive\\desktop\\eye-sl2-proyecto2\\front\\frontendblazor\\pages\\productosasdsa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|solutionrelative:pages\\productosasdsa.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|c:\\users\\tutor\\onedrive\\desktop\\eye-sl2-proyecto2\\front\\frontendblazor\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|solutionrelative:pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|c:\\users\\tutor\\onedrive\\desktop\\eye-sl2-proyecto2\\front\\frontendblazor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|c:\\users\\tutor\\onedrive\\desktop\\eye-sl2-proyecto2\\front\\frontendblazor\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|c:\\users\\tutor\\onedrive\\desktop\\eye-sl2-proyecto2\\front\\frontendblazor\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{719960B9-7C14-4CF6-9194-9D2577F3B904}|FrontendBlazor.csproj|solutionrelative:wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosASDSA.razor",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Pages\\ProductosASDSA.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductosASDSA.razor",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Pages\\ProductosASDSA.razor",
+              "RelativeToolTip": "Pages\\ProductosASDSA.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T18:04:40.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:00:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoCOSAS.razor",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Pages\\ProductoCOSAS.razor",
+              "RelativeDocumentMoniker": "Pages\\ProductoCOSAS.razor",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Pages\\ProductoCOSAS.razor",
+              "RelativeToolTip": "Pages\\ProductoCOSAS.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T17:58:22.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\Pages\\Home.razor",
+              "RelativeToolTip": "Pages\\Home.razor",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-11T17:56:36.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "wwwroot\\css\\app.css",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-11T17:11:53.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\Tutor\\OneDrive\\Desktop\\EyE-SL2-Proyecto2\\Front\\FrontendBlazor\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-11T16:54:53.454Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

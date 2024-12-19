@@ -1,0 +1,16 @@
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\bin\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.exe
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\bin\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\bin\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.runtimeconfig.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\bin\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\bin\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS__FILE__STREAM_Reader_Writer.Form1.resources
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\refint\ARCHIVOS  FILE  STREAM Reader-Writer.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ARCHIVOS  FILE  STREAM Reader-Writer.genruntimeconfig.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 02\ARCHIVOS  FILE  STREAM Reader-Writer\obj\Debug\net8.0-windows\ref\ARCHIVOS  FILE  STREAM Reader-Writer.dll

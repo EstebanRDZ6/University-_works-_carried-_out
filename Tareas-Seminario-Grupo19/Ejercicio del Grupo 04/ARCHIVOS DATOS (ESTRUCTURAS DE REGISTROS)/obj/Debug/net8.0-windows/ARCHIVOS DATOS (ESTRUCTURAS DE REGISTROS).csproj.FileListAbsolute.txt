@@ -1,0 +1,16 @@
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\bin\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).exe
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\bin\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\bin\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).runtimeconfig.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\bin\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\bin\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS_DATOS__ESTRUCTURAS_DE_REGISTROS_.Form1.resources
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\refint\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).genruntimeconfig.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 04\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS)\obj\Debug\net8.0-windows\ref\ARCHIVOS DATOS (ESTRUCTURAS DE REGISTROS).dll

@@ -1,0 +1,16 @@
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\bin\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.exe
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\bin\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\bin\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.runtimeconfig.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\bin\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\bin\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio_grupo_12___FTP.Form1.resources
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\refint\Ejercicio grupo 12 - FTP.dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\Ejercicio grupo 12 - FTP.genruntimeconfig.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 12\Ejercicio grupo 12 - FTP\obj\Debug\net8.0-windows\ref\Ejercicio grupo 12 - FTP.dll

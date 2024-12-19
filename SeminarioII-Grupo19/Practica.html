@@ -1,0 +1,112 @@
+Crear el Modelo: Libro
+public class Libro
+{
+    public int Id { get; set; }
+    public string Titulo { get; set; }
+    public string Autor { get; set; }
+}
+Crear el Controlador: LibrosController
+    public class LibrosController : Controller
+    {
+        // Lista simulada de libros
+        public static List<Libro> listaLibros = new List<Libro>
+        {
+            new Libro { Id = 1, Titulo = "El Principito", Autor = "Antoine de Saint-Exupéry" },
+            new Libro { Id = 2, Titulo = "1984", Autor = "George Orwell" }
+        };
+
+        // Acción Index para mostrar la lista de libros
+        public IActionResult Index()
+        {
+            return View(listaLibros);
+        }
+
+        // Acción GET para crear un nuevo libro
+        public IActionResult Crear()
+        {
+            return View();
+        }
+
+        // Acción POST para guardar el nuevo libro
+        [HttpPost]
+        public IActionResult Crear(Libro libro)
+        {
+            libro.Id = listaLibros.Max(l => l.Id) + 1; // Generar ID único
+            listaLibros.Add(libro);
+            return RedirectToAction("Index");
+        }
+    }
+Crear la Vista: Index (Esta vista mostrará la lista de libros y tendrá botones para Editar, Eliminar y Crear un nuevo libro.)
+@model List<Libro>
+
+<h1>Lista de Libros</h1>
+
+<a asp-action="Crear">Agregar Nuevo Libro</a>
+
+<table>
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Título</th>
+            <th>Autor</th>
+            <th>Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var libro in Model)
+        {
+            <tr>
+                <td>@libro.Id</td>
+                <td>@libro.Titulo</td>
+                <td>@libro.Autor</td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="@libro.Id">Editar</a> |
+                    <a asp-action="Eliminar" asp-route-id="@libro.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+Crear: la Vista Crear
+@model Libro
+
+<h1>Agregar Nuevo Libro</h1>
+
+<form asp-action="Crear" method="post">
+    <div>
+        <label>Título:</label>
+        <input asp-for="Titulo" />
+    </div>
+    <div>
+        <label>Autor:</label>
+        <input asp-for="Autor" />
+    </div>
+    <button type="submit">Guardar</button>
+</form>
+
+<a asp-action="Index">Volver a la Lista</a>
+
+// Codigo de Vista de HTML para los compañeros
+
+@model Libro
+
+<h1>Editar Libro</h1>
+
+<form asp-action="Editar" method="post">
+    <div>
+        <label>ID:</label>
+        <input asp-for="Id" readonly />
+    </div>
+    <div>
+        <label>Título:</label>
+        <input asp-for="Titulo" />
+    </div>
+    <div>
+        <label>Autor:</label>
+        <input asp-for="Autor" />
+    </div>
+    <button type="submit">Guardar Cambios</button>
+</form>
+
+<a asp-action="Index">Volver a la Lista</a>

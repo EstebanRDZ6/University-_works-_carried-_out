@@ -1,0 +1,28 @@
+
+@{
+    ViewData["Title"] = "Editar";
+}
+
+@model Libro
+
+<h1>Editar Libro</h1>
+
+<form asp-action="Editar" method="post">
+    <div>
+        <label>ID:</label>
+        <input asp-for="Id" readonly />
+    </div>
+    <div>
+        <label>Título:</label>
+        <input asp-for="Titulo" />
+    </div>
+    <div>
+        <label>Autor:</label>
+        <input asp-for="Autor" />
+    </div>
+    <button type="submit">Guardar Cambios</button>
+</form>
+
+<a asp-action="Index">Volver a la Lista</a>
+
+

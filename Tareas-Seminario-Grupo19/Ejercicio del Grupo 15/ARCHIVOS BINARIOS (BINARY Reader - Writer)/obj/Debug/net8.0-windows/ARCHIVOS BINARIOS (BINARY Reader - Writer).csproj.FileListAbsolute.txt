@@ -1,0 +1,16 @@
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\bin\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).exe
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\bin\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).deps.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\bin\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).runtimeconfig.json
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\bin\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\bin\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS_BINARIOS__BINARY_Reader___Writer_.Form1.resources
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).csproj.GenerateResource.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).AssemblyInfoInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).AssemblyInfo.cs
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).csproj.CoreCompileInputs.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\refint\ARCHIVOS BINARIOS (BINARY Reader - Writer).dll
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).pdb
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ARCHIVOS BINARIOS (BINARY Reader - Writer).genruntimeconfig.cache
+C:\Users\Tutor\OneDrive\Desktop\Tareas-Seminario-Grupo19\Ejercicio del Grupo 15\ARCHIVOS BINARIOS (BINARY Reader - Writer)\obj\Debug\net8.0-windows\ref\ARCHIVOS BINARIOS (BINARY Reader - Writer).dll

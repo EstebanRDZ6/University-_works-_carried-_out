@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ARCHIVOS  FILE  STREAM Reader-Writer/1.0.0": {
+        "runtime": {
+          "ARCHIVOS  FILE  STREAM Reader-Writer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARCHIVOS  FILE  STREAM Reader-Writer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
